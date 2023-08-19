@@ -1,6 +1,7 @@
 # ArchitectureFiveGb
 
-![image](https://github.com/ScherbakovM/ArchitectureFiveGb/assets/109952823/4dcd39e8-19fb-4789-ab02-0858dde6ed0b)
+<img width="714" alt="image" src="https://github.com/ScherbakovM/ArchitectureFiveGb/assets/109952823/3d8cab05-919b-45ba-a11b-2527ddaec521">
+
 
 
 
